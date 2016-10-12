@@ -26,6 +26,6 @@ var myObject = {
 age: 29,
 classmates: myArray
 }
-myObject.classmates [2]
+myObject.classmates[2]
 // 5) Boolean, which is true or false
 var myBool = true;
